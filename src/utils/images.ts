@@ -1,7 +1,7 @@
 import type { ImageMetadata } from "astro";
 
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/*.{jpeg,jpg,png,gif,webp,svg}",
+  "/src/assets/**/*.{jpeg,jpg,png,gif,webp,svg}",
 );
 
 /**
@@ -18,7 +18,9 @@ export async function resolveAssetImage(
   }
 
   // Normalize path format
-  const imagePath = photoUrl.startsWith("/src/assets/") ? photoUrl : `/src/assets/${photoUrl}`;
+  const imagePath = photoUrl.startsWith("/src/assets/")
+    ? photoUrl
+    : `/src/assets/${photoUrl}`;
 
   const imageResolver = allImages[imagePath];
 
@@ -31,7 +33,10 @@ export async function resolveAssetImage(
     const imageModule = await imageResolver();
     return imageModule.default;
   } catch (error) {
-    console.error(`[Image Utility] Failed to load image at ${imagePath}`, error);
+    console.error(
+      `[Image Utility] Failed to load image at ${imagePath}`,
+      error,
+    );
     return null;
   }
 }

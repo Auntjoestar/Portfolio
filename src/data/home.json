@@ -1,70 +1,70 @@
 {
-  "name": "John Doe",
+  "name": "Sebastián A. Soto",
   "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
+  "intro": "Transforming complex processes into scalable, high-impact digital tools.",
+  "introHtml": "Transforming <em>complex processes</em> into scalable, high-impact digital tools.",
+  "webpageTitle": "Sebastián Soto: portfolio",
+  "resumeUrl": "https://portfolio.crisiwii.com/document/pdf/CV_Sebastian_Soto_en.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/Auntjoestar",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/sebastián-soto-rivera-166448375",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
     {
       "name": "Leetcode",
-      "url": "#",
+      "url": "",
       "icon": "devicon-plain:leetcode",
       "showInContact": false
     },
     {
       "name": "Behance",
-      "url": "#",
+      "url": "",
       "icon": "devicon-plain:behance",
       "showInContact": false
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:sotorivera2306@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/+50578896416",
       "icon": "mdi:whatsapp",
       "showInContact": true
     },
     {
       "name": "Facebook",
-      "url": "#",
+      "url": "",
       "icon": "mdi:facebook",
       "showInContact": false
     },
     {
       "name": "Messenger",
-      "url": "#",
+      "url": "",
       "icon": "mdi:facebook-messenger",
       "showInContact": true
     },
     {
       "name": "Instagram",
-      "url": "#",
+      "url": "",
       "icon": "mdi:instagram",
       "showInContact": false
     },
     {
       "name": "Twitter",
-      "url": "#",
+      "url": "",
       "icon": "mdi:twitter",
       "showInContact": false
     }

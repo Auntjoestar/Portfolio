@@ -29,7 +29,13 @@
   {
     "title": "Library Management System",
     "description": "A Java Simple CRUD for managing books.",
-    "images": ["java/001.png", "java/002.png", "java/003.png"],
+    "images": [
+      "java/001.png",
+      "java/002.png",
+      "java/003.png",
+      "java/004.png",
+      "java/005.png"
+    ],
     "tech": ["JavaFX", "Java", "Sass"],
     "platforms": ["desktop-mac"],
     "link": "https://github.com/Auntjoestar/Java-Final-Project",
@@ -38,7 +44,13 @@
   {
     "title": "Keiser Student Analisys Tool",
     "description": "A Python Student analysis tool from CSV and JSON files.",
-    "images": ["python/001.png", "python/002.png", "python/003.png"],
+    "images": [
+      "python/001.png",
+      "python/002.png",
+      "python/003.png",
+      "python/004.png",
+      "python/005.png"
+    ],
     "tech": ["Python", "Pandas", "PyQt6", "Matplotlib", "Pydantic"],
     "platforms": ["desktop-mac"],
     "link": "https://github.com/Auntjoestar/Intro-to-Python-Final-Project",

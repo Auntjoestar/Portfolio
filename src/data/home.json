@@ -1,10 +1,10 @@
 {
   "name": "Sebastián A. Soto",
-  "photoUrl": "favicon.svg",
+  "photoUrl": "me.jpg",
   "intro": "Transforming complex processes into scalable, high-impact digital tools.",
   "introHtml": "Transforming <em>complex processes</em> into scalable, high-impact digital tools.",
   "webpageTitle": "Sebastián Soto: portfolio",
-  "resumeUrl": "https://portfolio.crisiwii.com/document/pdf/CV_Sebastian_Soto_en.pdf",
+  "resumeUrl": "documents/pdf/CV_Sebastian_Soto_en.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [

@@ -16,5 +16,5 @@ export default defineConfig({
   integrations: [icon()],
 
   site: "https://portfolio.crisiwii.com",
-  base: "/Portfolio",
+  base: "/,
 });

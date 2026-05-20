@@ -31,7 +31,7 @@
     "description": "A Java Simple CRUD for managing books.",
     "images": ["java/001.jpeg", "java/002.jpeg", "java/003.jpeg"],
     "tech": ["JavaFX", "Java", "Sass"],
-    "platforms": ["Desktop"],
+    "platforms": ["desktop-mac"],
     "link": "https://github.com/Auntjoestar/Java-Final-Project",
     "category": "University"
   },
@@ -40,16 +40,16 @@
     "description": "A Python Student analysis tool from CSV and JSON files.",
     "images": ["python/001.jpeg", "python/002.jpeg", "python/003.jpeg"],
     "tech": ["Python", "Pandas", "PyQt6", "Matplotlib", "Pydantic"],
-    "platforms": ["Desktop"],
+    "platforms": ["desktop-mac"],
     "link": "https://github.com/Auntjoestar/Intro-to-Python-Final-Project",
     "category": "University"
   },
   {
     "title": "CS50 Name Changer",
-    "description": "Desktop tool for renaming files according to CS50 naming conventions.",
+    "description": "desktop-mac tool for renaming files according to CS50 naming conventions.",
     "images": ["cs50/001.jpeg", "cs50/002.jpeg", "cs50/003.jpeg"],
     "tech": ["Wails", "Go", "Vue", "JS", "SQLite"],
-    "platforms": ["Desktop"],
+    "platforms": ["desktop-mac"],
     "link": "https://auntjoestar.github.io/cs50NameChanger/",
     "category": "Professional"
   }

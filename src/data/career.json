@@ -1,26 +1,43 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "SEIT",
+    "role": "Full Stack Software Engineer | Odoo & Laravel Expert | .NET & React Native Developer SEIT",
+    "period": "Jan 2025 - Present",
+    "type": "Freelance",
+    "description": "Specialist in developing custom business ecosystems. I design and build advanced Odoo modules, robust APIs in Laravel and ASP.NET, and high-performance, client-facing applications using Expo and SvelteKit. Focused on transforming complex processes into scalable and efficient technical solutions.",
+    "skills": [
+      "Odoo",
+      "Python",
+      "C#",
+      "Expo",
+      "Laravel",
+      "SvelteKit",
+      "React Native`"
+    ]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "Grupo Tebas",
+    "role": "Web Developer",
+    "period": "Aug 2024 - Dec 2024",
+    "type": "Freelance",
+    "description": "I Develop a website and online presentation for the company. I also built custom automation tools for the business processes.",
+    "skills": ["Astro", "Node.js", "Sveltekit", "Go"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Codefu - Uno Fundation",
+    "role": "Teaching Assistant (CS50 & Web 50)",
+    "period": "Feb 2024 - Aug 2025",
+    "type": "Volunteer",
+    "description": "Specialist in developing custom business ecosystems, I design and build advanced Odoo modules, robust APIs in Laravel and ASP.NET, and high-performance, client-facing applications using Expo and SvelteKit, always focused on transforming complex processes into scalable and efficient technical solutions. Alongside my development work, I facilitate learning through personalized mentorship in computer science fundamentals (C, Python, SQL) and modern web development (Django, React, APIs). My experience includes conducting rigorous code reviews based on algorithmic efficiency, security, and best practices, providing technical support to debug applications from low-level C memory management to scalable web architectures, and guiding students through relational database design, data structures, and core programming logic.",
+    "skills": [
+      "C",
+      "Python",
+      "SQL",
+      "JS",
+      "Flask",
+      "Django",
+      "React",
+      "Teaching"
+    ]
   }
 ]

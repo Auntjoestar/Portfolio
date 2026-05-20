@@ -1,20 +1,56 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "ProActive Technical Demo (National Hackathon Winner 2025)",
+    "description": "A web application for business management of SMEs dedicated to the purchase and sale of products, featuring AI integration.",
+    "images": ["hackaton/001.webp", "hackaton/002.jpeg", "hackaton/003.jpeg"],
+    "tech": ["SvelteKit", "TS", "Bun JS"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "https://pro-active-web.vercel.app",
+    "category": "Hackaton Winner"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "ProActive App (Expo 2026)",
+    "description": "Continuation of the hackathon project including Web and Mobile applications with deep AI service integration.",
+    "images": ["expo/001.jpeg", "expo/002.jpeg", "expo/003.jpeg"],
+    "tech": ["Laravel", "Expo", "React Native", "TS", "PHP"],
+    "platforms": ["web", "apple-ios", "android"],
+    "link": "https://www.youtube.com/watch?v=O2B-wj7Jh8g",
+    "category": "Software Expo"
+  },
+  {
+    "title": "Tebas Group Website",
+    "description": "SEO-friendly website built with Astro and hosted on Cloudflare Pages. Website.",
+    "images": ["expo/001.jpeg", "expo/002.jpeg", "expo/003.jpeg"],
+    "tech": ["Astro", "TS", "TailwindCSS", "HTML5", "Vanilla JS"],
+    "platforms": ["web"],
+    "link": "https://tebasconstrucciones.com",
+    "category": "Professional"
+  },
+  {
+    "title": "Library Management System",
+    "description": "A Java Simple CRUD for managing books.",
+    "images": ["java/001.jpeg", "java/002.jpeg", "java/003.jpeg"],
+    "tech": ["JavaFX", "Java", "Sass"],
+    "platforms": ["Desktop"],
+    "link": "https://github.com/Auntjoestar/Java-Final-Project",
+    "category": "University"
+  },
+  {
+    "title": "Keiser Student Analisys Tool",
+    "description": "A Python Student analysis tool from CSV and JSON files.",
+    "images": ["python/001.jpeg", "python/002.jpeg", "python/003.jpeg"],
+    "tech": ["Python", "Pandas", "PyQt6", "Matplotlib", "Pydantic"],
+    "platforms": ["Desktop"],
+    "link": "https://github.com/Auntjoestar/Intro-to-Python-Final-Project",
+    "category": "University"
+  },
+  {
+    "title": "CS50 Name Changer",
+    "description": "Desktop tool for renaming files according to CS50 naming conventions.",
+    "images": ["cs50/001.jpeg", "cs50/002.jpeg", "cs50/003.jpeg"],
+    "tech": ["Wails", "Go", "Vue", "JS", "SQLite"],
+    "platforms": ["Desktop"],
+    "link": "https://auntjoestar.github.io/cs50NameChanger/",
+    "category": "Professional"
   }
 ]
